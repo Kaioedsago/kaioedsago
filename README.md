@@ -5,14 +5,26 @@
 
 <hr />
 
-<div align="center">
+<!-- <div align="center">
     <h3 align="center">🔭 Development Tools 💬 </h3>
     
 |   Languages  |    Frontend    |    Backend    |  Versioning & Deploy  |    Tools    |
 |    :---:     |     :---:      |     :---:     |        :---:          |    :---:    |
 | <img src="https://skillicons.dev/icons?i=js" /><img src="https://skillicons.dev/icons?i=cs" /><img src="https://skillicons.dev/icons?i=php" /> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap" /><img align="center" src="https://skillicons.dev/icons?i=laravel,react,tailwind" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb" />| <img src="https://skillicons.dev/icons?i=git" /><img src="https://skillicons.dev/icons?i=docker" /> | <img src="https://skillicons.dev/icons?i=vscode,visualstudio" /><img align="center" src="https://skillicons.dev/icons?i=bash,figma" /> |
 
+</div> -->
+
+<div align="center">
+    <h3 align="center">🔭 Development Tools 💬 </h3>
+    
+|   Languages  |    Framework   |  Databases   |  Versioning & Deploy  |    Tools    |
+|    :---:     |     :---:      |    :---:     |        :---:          |    :---:    |
+| <img src="https://skillicons.dev/icons?i=js,php,cs" /> | <img src="https://skillicons.dev/icons?i=react,laravel" />  | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> | <img src="https://skillicons.dev/icons?i=git,docker" /> | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux" /><br/><img align="center" src="https://skillicons.dev/icons?i=bootstrap,tailwind,vite" /> |
+
 </div>
+
+<hr />
+
 
 <hr />
 
