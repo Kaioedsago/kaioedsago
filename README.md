@@ -19,7 +19,7 @@
     
 |   Languages  |    Framework   |  Databases   |  Versioning & Deploy  |    Tools    |
 |    :---:     |     :---:      |    :---:     |        :---:          |    :---:    |
-| <img src="https://skillicons.dev/icons?i=js,php,cs" /> | <img src="https://skillicons.dev/icons?i=react,laravel" />  | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> | <img src="https://skillicons.dev/icons?i=git,docker" /> | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux" /><br/><img align="center" src="https://skillicons.dev/icons?i=bootstrap,tailwind,vite" /> |
+| <img src="https://skillicons.dev/icons?i=js,php,cs" /> | <img src="https://skillicons.dev/icons?i=react,laravel" />  | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> | <img src="https://skillicons.dev/icons?i=git,docker" /> | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,bash" /><br/><img align="center" src="https://skillicons.dev/icons?i=bootstrap,tailwind,vite" /> |
 
 </div>
 
